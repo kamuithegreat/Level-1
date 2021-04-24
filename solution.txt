@@ -1,0 +1,11 @@
+Scoreboard components:
+  Title: Making a website but the right click botton is blocked
+  Level: 1
+  Points: 150
+  Solution: flag{Ctrl+U}
+  
+  
+  
+  Description:
+  I am planning on building on a new website but I decided to block the right click button so no one can see my view page source. What shortcut can you use to get to my "view page source?"
+  
